@@ -6,7 +6,7 @@
       </div>
         <div class="ms-login">
           <div class="ms-title">
-             欢迎使用
+             欢迎
           </div>
           <el-form :model="ruleForm" :rules="rules" ref="ruleForm" label-width="0px" class="ms-content">
             <el-form-item prop="username">
